@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/amagalifv](https://github.com/amagalifv)
 
-- 💬 Ask me about **C, C++**
+- 💬 Ask me about **C and C++**
 
 - 📫 How to reach me **amagalifv@gmail.com**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in//amfernandezv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/amfernandezv" height="30" width="40" />/amfernandezv</a>
+<a href="https://linkedin.com/in//amfernandezv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/amfernandezv" height="20" width="25" /> /amfernandezv</a>
 <a href="https://discord.gg/AMFV#5492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AMFV#5492" height="30" width="40" />AMFV#5492</a>
 </p>
 
