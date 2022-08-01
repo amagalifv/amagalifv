@@ -1,6 +1,7 @@
+<img src="https://github.com/amagalifv/amagalifv/blob/main/IMG2.png" width= 95%/>
 <h1 align="center">Hi 👋, I'm A. Magalí Fernandez V.</h1>
 <h3 align="center">A passionate software developer junior from Argentina</h3>
-![software developer junior] (https://github.com/amagalifv/amagalifv/blob/main/IMG2.png)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amagalifv&label=Profile%20views&color=0e75b6&style=flat" alt="amagalifv" /> </p>
 
